@@ -1,0 +1,1 @@
+# dev-padrao-wordpress
