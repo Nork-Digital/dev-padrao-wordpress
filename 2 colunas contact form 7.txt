@@ -1,0 +1,18 @@
+<div class="two_columns_50_50 clearfix">
+<div class="column1">
+<div class="column_inner"> [text* your-name placeholder "Nome*"]</div>
+</div>
+<div class="column2">
+<div class="column_inner"> [email* your-email placeholder "E-mail*"]</div>
+</div>
+</div>
+<div class="two_columns_50_50 clearfix">
+<div class="column1">
+<div class="column_inner">[tel tel-950 placeholder "Telefone/Celular"]</div>
+</div>
+<div class="column2">
+<div class="column_inner">[text* assunto-224 placeholder "Assunto*"]</div>
+</div>
+</div>
+<p>[textarea your-message placeholder "Mensagem"]</p>
+<p>[submit "Enviar"]</p>
